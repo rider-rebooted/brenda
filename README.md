@@ -1,3 +1,7 @@
+
+13/01/2019 Brenda modified with changes from Todd Mcintosh and Sundrift Productions to run on Windows with Win_Brenda_2 script
+
+
 Brenda -- Blender render farm software for Amazon Web Services.
 ===============================================================
 
